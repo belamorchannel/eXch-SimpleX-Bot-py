@@ -6,7 +6,7 @@ from client.cli import start_client
 from websocket.websock import connect_websocket
 from main.bot import Bot
 
-sys.path.append("C:\\Users\\asket\\OneDrive\\Рабочий стол\\Pypy")
+sys.path.append("path to project")
 print("Python path:", sys.path)
 
 load_dotenv()
